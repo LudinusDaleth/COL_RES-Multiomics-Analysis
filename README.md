@@ -24,11 +24,8 @@ COL_RES_Multiomics_Pipeline/
 ├── data/
 │   ├── 16S_data.csv
 │   ├── metabolomics_data.csv
-│   └── metadata.csv
 ├── scripts/
 │   ├── main_pipeline.py
-│   ├── utils.py
-│   └── plots.py
 ├── results/
 │   ├── figures/
 ├── README.md
